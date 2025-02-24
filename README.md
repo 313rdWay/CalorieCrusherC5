@@ -11,3 +11,9 @@ Calorie Crusher is a fun, food based, dodging game developed by team 313Devs in 
 ## Documentation
 
 [Documentation](CalorieCrusher%20Assets%3AImages/Game%20Design%20Document%20313Devs.pages)
+
+## Logo & Icon
+
+![Logo](CalorieCrusher&20Assets:Images/gameBanner.png)
+
+![Icon](CalorieCrusher%20Assets:Images/calorieCrusherIcon.png)
