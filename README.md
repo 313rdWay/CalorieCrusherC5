@@ -8,7 +8,8 @@ Calorie Crusher is a fun, food based, dodging game developed by team 313Devs in 
 - [Davaughn Williams](https://github.com/313rdWay) - Coder
 - [Jeremiah Hicks](https://github.com/jhicks59) - Coder
 - AJ - Project Manager
-- Partho Das
+- Partho Das - Designer
+- [Fahim Uddin](https://github.com/FahimU123) - Designer
 
 ## Documentation
 
