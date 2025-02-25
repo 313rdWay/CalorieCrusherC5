@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E2B8D432D6E57D900B3B5F3 /* gamePlaySS3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D3C2D6E57D800B3B5F3 /* gamePlaySS3.PNG */; };
+		1E2B8D442D6E57D900B3B5F3 /* pauseMenuSS.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D422D6E57D800B3B5F3 /* pauseMenuSS.PNG */; };
+		1E2B8D452D6E57D900B3B5F3 /* gamePlaySS4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D3D2D6E57D800B3B5F3 /* gamePlaySS4.PNG */; };
+		1E2B8D462D6E57D900B3B5F3 /* homeScreenSS.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D412D6E57D800B3B5F3 /* homeScreenSS.PNG */; };
+		1E2B8D472D6E57D900B3B5F3 /* gamePlaySS2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D3B2D6E57D800B3B5F3 /* gamePlaySS2.PNG */; };
+		1E2B8D482D6E57D900B3B5F3 /* gamePlaySS6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D3F2D6E57D800B3B5F3 /* gamePlaySS6.PNG */; };
+		1E2B8D492D6E57D900B3B5F3 /* gameOverSS.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D392D6E57D800B3B5F3 /* gameOverSS.PNG */; };
+		1E2B8D4A2D6E57D900B3B5F3 /* gamePlaySS1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D3A2D6E57D800B3B5F3 /* gamePlaySS1.PNG */; };
+		1E2B8D4B2D6E57D900B3B5F3 /* gamePlaySS5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D3E2D6E57D800B3B5F3 /* gamePlaySS5.PNG */; };
+		1E2B8D4C2D6E57D900B3B5F3 /* gamePlaySS7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B8D402D6E57D800B3B5F3 /* gamePlaySS7.PNG */; };
 		1EBF6BDC2D6D1B8B0092E435 /* angryCharacter.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBF6BAD2D6D1B8B0092E435 /* angryCharacter.png */; };
 		1EBF6BDD2D6D1B8B0092E435 /* falseButtonBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBF6BBA2D6D1B8B0092E435 /* falseButtonBG.png */; };
 		1EBF6BDE2D6D1B8B0092E435 /* donut.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBF6BB82D6D1B8B0092E435 /* donut.png */; };
@@ -73,6 +83,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E2B8D392D6E57D800B3B5F3 /* gameOverSS.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameOverSS.PNG; sourceTree = "<group>"; };
+		1E2B8D3A2D6E57D800B3B5F3 /* gamePlaySS1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS1.PNG; sourceTree = "<group>"; };
+		1E2B8D3B2D6E57D800B3B5F3 /* gamePlaySS2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS2.PNG; sourceTree = "<group>"; };
+		1E2B8D3C2D6E57D800B3B5F3 /* gamePlaySS3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS3.PNG; sourceTree = "<group>"; };
+		1E2B8D3D2D6E57D800B3B5F3 /* gamePlaySS4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS4.PNG; sourceTree = "<group>"; };
+		1E2B8D3E2D6E57D800B3B5F3 /* gamePlaySS5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS5.PNG; sourceTree = "<group>"; };
+		1E2B8D3F2D6E57D800B3B5F3 /* gamePlaySS6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS6.PNG; sourceTree = "<group>"; };
+		1E2B8D402D6E57D800B3B5F3 /* gamePlaySS7.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamePlaySS7.PNG; sourceTree = "<group>"; };
+		1E2B8D412D6E57D800B3B5F3 /* homeScreenSS.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = homeScreenSS.PNG; sourceTree = "<group>"; };
+		1E2B8D422D6E57D800B3B5F3 /* pauseMenuSS.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseMenuSS.PNG; sourceTree = "<group>"; };
 		1EBF6AFC2D6D0B150092E435 /* Calorie Crusher (Challenge 5 - MVP).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Calorie Crusher (Challenge 5 - MVP).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EBF6B152D6D0B170092E435 /* Calorie Crusher (Challenge 5 - MVP)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Calorie Crusher (Challenge 5 - MVP)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EBF6B1F2D6D0B170092E435 /* Calorie Crusher (Challenge 5 - MVP)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Calorie Crusher (Challenge 5 - MVP)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -243,6 +263,16 @@
 				1EBF6BD82D6D1B8B0092E435 /* trueButton.png */,
 				1EBF6BD92D6D1B8B0092E435 /* trueButtonBG.png */,
 				1EBF6BDA2D6D1B8B0092E435 /* whiteSingleCloud.png */,
+				1E2B8D392D6E57D800B3B5F3 /* gameOverSS.PNG */,
+				1E2B8D3A2D6E57D800B3B5F3 /* gamePlaySS1.PNG */,
+				1E2B8D3B2D6E57D800B3B5F3 /* gamePlaySS2.PNG */,
+				1E2B8D3C2D6E57D800B3B5F3 /* gamePlaySS3.PNG */,
+				1E2B8D3D2D6E57D800B3B5F3 /* gamePlaySS4.PNG */,
+				1E2B8D3E2D6E57D800B3B5F3 /* gamePlaySS5.PNG */,
+				1E2B8D3F2D6E57D800B3B5F3 /* gamePlaySS6.PNG */,
+				1E2B8D402D6E57D800B3B5F3 /* gamePlaySS7.PNG */,
+				1E2B8D412D6E57D800B3B5F3 /* homeScreenSS.PNG */,
+				1E2B8D422D6E57D800B3B5F3 /* pauseMenuSS.PNG */,
 			);
 			path = "CalorieCrusher Assets:Images";
 			sourceTree = "<group>";
@@ -379,6 +409,16 @@
 				1EBF6BE42D6D1B8B0092E435 /* nightBackground.png in Resources */,
 				1EBF6BE52D6D1B8B0092E435 /* calorieCrusherIcon.png in Resources */,
 				1EBF6BE62D6D1B8B0092E435 /* goldenApple.png in Resources */,
+				1E2B8D432D6E57D900B3B5F3 /* gamePlaySS3.PNG in Resources */,
+				1E2B8D442D6E57D900B3B5F3 /* pauseMenuSS.PNG in Resources */,
+				1E2B8D452D6E57D900B3B5F3 /* gamePlaySS4.PNG in Resources */,
+				1E2B8D462D6E57D900B3B5F3 /* homeScreenSS.PNG in Resources */,
+				1E2B8D472D6E57D900B3B5F3 /* gamePlaySS2.PNG in Resources */,
+				1E2B8D482D6E57D900B3B5F3 /* gamePlaySS6.PNG in Resources */,
+				1E2B8D492D6E57D900B3B5F3 /* gameOverSS.PNG in Resources */,
+				1E2B8D4A2D6E57D900B3B5F3 /* gamePlaySS1.PNG in Resources */,
+				1E2B8D4B2D6E57D900B3B5F3 /* gamePlaySS5.PNG in Resources */,
+				1E2B8D4C2D6E57D900B3B5F3 /* gamePlaySS7.PNG in Resources */,
 				1EBF6BE72D6D1B8B0092E435 /* loadingBar.png in Resources */,
 				1EBF6BE82D6D1B8B0092E435 /* leftArrow.png in Resources */,
 				1EBF6BE92D6D1B8B0092E435 /* burger.png in Resources */,
