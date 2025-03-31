@@ -9,7 +9,7 @@ Calorie Crusher is a fun, food based, dodging game developed by team 313Devs in 
 
 - According To The NLM Only 6.4% Of Video Games Produced Over Several Decades Have Been Focused On Nutritional Education.
 
-So when the MSU Apple Developer Academy gave my team and I a challenge to make a game after a lot of brainstorming we believed this we can do something fun as well as educational. Calorie Crusher not only gives it's players a fun dodging game to enjoy but it also teaches them about health and nutrition along the way.
+So when the MSU Apple Developer Academy gave my team and I a challenge to make a game after a lot of brainstorming we believed that we can do something fun as well as educational. Calorie Crusher not only gives it's players a fun dodging game to enjoy but it also teaches them about health and nutrition along the way.
 ## Lessons Learned
 
 Overall I learned SpriteKit for the very first time and the process of Game Developement.
